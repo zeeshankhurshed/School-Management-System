@@ -1,0 +1,10 @@
+export const BASE_URL="/api";
+export const USER_URL="/users";
+export const CLASSES_URL="/classes";
+export const STUDENT_URL="/student";
+export const TEACHER_URL="/teacher";
+export const SUBJECT_URL="/subject";
+export const RESULT_URL="/result";
+export const FEE_URL="/fee";
+export const BLOG_URL="/blog";
+export const UPLOAD_URL="/upload";
